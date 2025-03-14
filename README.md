@@ -1,14 +1,12 @@
 # my-library
 
-Important data
 
-new link1 
 
-[https://drive.google.com/file/d/19g8hNM9ZeN9C5SvKfL7Gg8Vob78Bx-Ad/view?usp=sharing]
+[https://drive.google.com/file/d/18_7ompjQiWsCharfL57r1izsIo922TfY/view?usp=sharing]
 
-new link2
 
-[https://drive.google.com/file/d/1ckE2ZP-y4KJttaBDhhh5zfkRTMCWkMDx/view?usp=sharing]
+
+[https://divergentnetworks.mm.fcix.net/ubuntu-releases/24.04.2/ubuntu-24.04.2-desktop-amd64.iso]
 
 
 

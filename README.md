@@ -5,8 +5,9 @@
 [https://drive.google.com/file/d/18_7ompjQiWsCharfL57r1izsIo922TfY/view?usp=sharing]
 
 
+new 
 
-[https://divergentnetworks.mm.fcix.net/ubuntu-releases/24.04.2/ubuntu-24.04.2-desktop-amd64.iso]
+[https://drive.google.com/file/d/1JAuuR9KWu2XD0oakT1zpH1PIi92sE1R1/view?usp=sharing]
 
 
 

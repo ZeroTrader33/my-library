@@ -5,10 +5,17 @@ grpc
 
 [https://drive.google.com/file/d/1vcQ9x0P1woKr654yJRpAgpIu-A6noviK/view?usp=sharing]
 
+xray
 
+[https://drive.google.com/file/d/1dbBt8W_cPvjWcyg4GRVvdzwFWwfeFc8m/view?usp=sharing]
 
+userver22
 
+[https://drive.google.com/file/d/19TuWW_UtDma7LvopH5rR31hZCWZa-IXY/view?usp=sharing]
 
+userver24
+
+[https://drive.google.com/file/d/133S_pnZ_LnhdzEq49ksv--TqY_J2kZwR/view?usp=sharing]
 
 
 ## Ubuntu POOLs:
